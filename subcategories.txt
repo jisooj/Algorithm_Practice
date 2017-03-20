@@ -1,0 +1,11 @@
+
+Given a list of people and the departments that they work for, come up with an algorithm that would construct subcategories of the most exclusive group of categories. For example, suppose Alice works for Finance and Sales. Bob works for Marketing. Carol works for Finance, Sales, and Engineering. Dave works for Management and Marketing. The most exclusive group of categories would be Finance, Sales, and Engineering; and Management & Marketing
+
+Alice - Finance, Sales
+Bob - Marketing
+Carol - Finance, Sales, Engineering
+Dave - Management, Marketing
+
+Algo:
+make categories as key, list of people as value
+choose the keys with minimum number of people 

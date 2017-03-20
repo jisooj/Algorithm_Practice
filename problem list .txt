@@ -1,0 +1,42 @@
+java servlet, java EE, jRebel allows instant update on web page
+MVC
+java spring
+REST,SOAP,HTTP
+android 
+Apache axis2, cxf, tomcat?
+google maps, facebook api
+jUnit
+
+
+qualtrics questions
+
++1. web crawler: http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/
+
++2. roman numeral to int 
+
++3. chemical formula 
+
+4. Given a string with plus, minus, parenthesis, numbers   , evaluate the expression: http://stackoverflow.com/questions/3422673/evaluating-a-math-expression-given-in-string-form
+
++5. Technical Round on campus- BST (check if a BST or not, Merge two BSTs)  
+
++6. Queue with a single stack :https://allaboutalgorithms.wordpress.com/2011/10/24/implement-queue-with-a-single-stack/
+
+7. how web service work: http://www.garshol.priv.no/download/text/http-tut.html 
+http://www.drdobbs.com/web-development/restful-web-services-a-tutorial/240169069?pgno=1
+
++8. implement hash table
+
+9. leetcode easy to medium problems
+
++10. DP: longest common subsequence 
+
+11. OOP
+
+12. system design
+
++13. string permutation - all character in resulting string but in diff order 
+
++14. string subset or combination - from empty string to full string
+
+15. N queens
