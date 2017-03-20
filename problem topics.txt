@@ -1,14 +1,13 @@
-java servlet, java EE, jRebel allows instant update on web page
-MVC
-java spring
-REST,SOAP,HTTP
-android 
-Apache axis2, cxf, tomcat?
-google maps, facebook api
-jUnit
+Good things to know:
+	java servlet, java EE, jRebel allows instant update on web page
+	MVC
+	java spring
+	REST,SOAP,HTTP
+	android 
+	Apache axis2, cxf, tomcat?
+	google maps, facebook api
+	jUnit
 
-
-qualtrics questions
 
 +1. web crawler: http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/
 
